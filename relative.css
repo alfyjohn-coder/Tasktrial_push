@@ -1,0 +1,23 @@
+.parent{
+    position: relative;
+}
+.child{
+    width: 300px;
+    height: auto;
+    border: solid 2px;
+    background-color: aqua;
+    padding: 10px;
+    border-radius: 10px;
+    position: absolute;
+    top: 0px;
+}
+.img1{
+    width: 100%;
+}
+#d2{
+z-index: 1;
+margin-left: 350px;
+}
+#d3{
+     margin-left: 700px;
+}
